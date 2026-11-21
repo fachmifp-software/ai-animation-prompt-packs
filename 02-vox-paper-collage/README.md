@@ -4,7 +4,7 @@ The demo story: the fake "pterodactyl over Mexico" video that went viral in Nove
 
 Every prompt from the video "How I Make Vox-Style Explainers With Claude + Veo 3.1", copied exactly as it was sent to Google Flow on 2026-11-19. They are not cleaned up after the fact. Failed takes are included next to the lock sentence that fixed each one.
 
-Tools: Claude Code (writes prompts, checks frames, codes the motion graphics), Google Flow (Nano Banana Pro images at 0 credits; Veo 3.1 Fast at 20 credits per 8 s clip), Flow MCP (lets Claude drive Flow), ElevenLabs (narration + music).
+Tools: Claude Code (writes prompts, checks frames, codes the motion graphics), Google Flow (Nano Banana Pro images at 0 credits; Veo 3.1 Fast at 20 credits per 8 s clip), [Flow MCP](https://github.com/GTAI-1/flow-mcp) (lets Claude drive Flow; [setup guide](../SETUP-FLOW-MCP.md)), ElevenLabs (narration + music).
 
 ---
 

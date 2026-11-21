@@ -3,6 +3,8 @@
 Free prompt packs from my videos on making animated scenes and ads with **Claude**, **Google Flow** (Nano Banana Pro + Veo 3.1) and **ElevenLabs**.
 Every prompt is copied from the real production. Copy them, swap in your own character, and make your own scene.
 
+**Start here:** Claude drives Google Flow through [Flow MCP](https://github.com/GTAI-1/flow-mcp), a free open-source tool. Set it up with **[SETUP-FLOW-MCP.md](SETUP-FLOW-MCP.md)** (Windows + Mac, plus the fix for the current "Flow Agent" button bug).
+
 | # | Pack | Style | Cost |
 |---|---|---|---|
 | 01 | [Skypulse: a superhero rooftop fight](01-skypulse-pixar-style/) | Pixar-style 3D | 160 Flow credits for about 32 s |
