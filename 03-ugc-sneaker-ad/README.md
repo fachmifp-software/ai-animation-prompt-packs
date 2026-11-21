@@ -8,7 +8,7 @@ Tools:
 - **Claude Code** writes the prompts, checks every frame, cuts the edit and codes the captions and end card.
 - **Google Flow**: Nano Banana Pro images at 0 credits, Veo 3.1 Fast at 20 credits per 8-second clip.
 - **[Flow MCP](https://github.com/GTAI-1/flow-mcp)** lets Claude drive Flow ([setup guide](../SETUP-FLOW-MCP.md)).
-- **ElevenLabs** makes the voice-over and the sound effects.
+- **ElevenLabs** makes the voice-over and the sound effects ([setup guide](../SETUP-ELEVENLABS-MCP.md)).
 
 ---
 

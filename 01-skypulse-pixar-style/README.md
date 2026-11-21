@@ -2,7 +2,7 @@
 
 Every prompt from the video **"How I Make Pixar-Style Action Scenes With Claude + Veo 3.1"**, copied from the real production calls. Nothing here was rewritten after the fact; line breaks were added between beats so the prompts are easier to read.
 
-**Tools:** Claude Code (writes the prompts, checks every frame) · Google Flow on the AI Pro plan (Nano Banana Pro images, Veo 3.1 Fast video) · [Flow MCP](https://github.com/GTAI-1/flow-mcp) (free, open source, lets Claude drive Flow; [setup guide](../SETUP-FLOW-MCP.md)) · ElevenLabs (narrator, Voice Changer, music, sound effects).
+**Tools:** Claude Code (writes the prompts, checks every frame) · Google Flow on the AI Pro plan (Nano Banana Pro images, Veo 3.1 Fast video) · [Flow MCP](https://github.com/GTAI-1/flow-mcp) (free, open source, lets Claude drive Flow; [setup guide](../SETUP-FLOW-MCP.md)) · ElevenLabs (narrator, Voice Changer, music, sound effects; [setup guide](../SETUP-ELEVENLABS-MCP.md)).
 
 **Contents**
 
@@ -219,7 +219,7 @@ Sound: only her voice, clear and close, soft night wind, distant city hum. No mu
 2. Run it through **ElevenLabs Voice Changer** (speech-to-speech) with the voice you want. This video used "Jessica".
 3. Put the new audio back on the clip. Voice Changer keeps Veo's exact timing, so the lips still match.
 
-Tip: if you call ElevenLabs through its API, the key needs the **Voice Changer** permission switched on.
+Tip: if you call ElevenLabs through its API, the key needs the **Voice Changer** permission switched on. How to connect ElevenLabs to Claude: [SETUP-ELEVENLABS-MCP.md](../SETUP-ELEVENLABS-MCP.md).
 
 ## 9. The cost sheet
 

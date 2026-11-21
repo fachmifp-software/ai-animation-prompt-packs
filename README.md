@@ -3,7 +3,7 @@
 Free prompt packs from my videos on making animated scenes and ads with **Claude**, **Google Flow** (Nano Banana Pro + Veo 3.1) and **ElevenLabs**.
 Every prompt is copied from the real production. Copy them, swap in your own character, and make your own scene.
 
-**Start here:** Claude drives Google Flow through [Flow MCP](https://github.com/GTAI-1/flow-mcp), a free open-source tool. Set it up with **[SETUP-FLOW-MCP.md](SETUP-FLOW-MCP.md)** (Windows + Mac, plus the fix for the current "Flow Agent" button bug).
+**Start here:** Claude drives Google Flow through [Flow MCP](https://github.com/GTAI-1/flow-mcp), a free open-source tool. Set it up with **[SETUP-FLOW-MCP.md](SETUP-FLOW-MCP.md)** (Windows + Mac, plus the fix for the current "Flow Agent" button bug). Claude makes the voices, music and sound effects through ElevenLabs: **[SETUP-ELEVENLABS-MCP.md](SETUP-ELEVENLABS-MCP.md)** (API key permissions, the Voice Changer trick).
 
 | # | Pack | Style | Cost |
 |---|---|---|---|
